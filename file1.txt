@@ -1,2 +1,8 @@
-line added by Mitchell Keenan on Nov 3rd at 2:10pm
+
 Created by Alexandra 2 PM Nov 3rd
+<<<<<<< HEAD
+
+
+=======
+Alexandra Szczerba Nov 3rd 2:07
+>>>>>>> 22bb3b3da9d3f5b07823119515414cfd1dd500da

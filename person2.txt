@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 person2.txt created by Mitchell Keenan on November 3rd at 2:09pm
+=======
+person1.txt created by Alexandra 11/3/23 at 2:09
+
+>>>>>>> 5c417625f09b64ee5397a4b4e04e149c1341c873
